@@ -1,6 +1,8 @@
 # imc_calc
 
-A new Flutter project.
+Flutter imc calc to learn language / framework base.
+
+Learned the basic about form validation
 
 ## Getting Started
 
